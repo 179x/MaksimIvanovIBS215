@@ -1,0 +1,10 @@
+x=14
+y=11
+print(x<16 and y>2)
+print(x>2 and y<3)
+print(x>12 or y<13)
+print(x>15 or y<3)
+l="Lomka"
+g="ku"
+print("l" in l and "u" in g)
+print("o" in l or "g" in g)
