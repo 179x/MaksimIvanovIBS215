@@ -1,0 +1,12 @@
+y=input()
+x=input()
+if x>y:
+ print(vay)
+ elif: 
+  print(obidno)
+  else:
+   z=179
+   if z>x+y:
+    print(gj)
+    else:
+     print(z)
