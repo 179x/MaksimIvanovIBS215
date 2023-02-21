@@ -1,0 +1,9 @@
+x=int(input())
+a=x//100
+b=x%100//10
+c=x%10
+g=c*100+b*10+a
+if g>x:
+ print(g-x)
+ else:
+ print(x-g)
