@@ -1,0 +1,10 @@
+x=int(input())
+if x>9 and x<100000
+ a=x//10000
+ b=a//1000%10
+ c=b//100%10
+ d=c%100//10
+ g=d%10
+ print(c,d)
+ else:
+  print("ne 5")
