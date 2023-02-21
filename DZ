@@ -1,1 +1,10 @@
+X=input()
+Y=input()
+If x>y:
+z=x-y
+elif:
+z=y+x
+else:
+z=x
+print(z)
 
