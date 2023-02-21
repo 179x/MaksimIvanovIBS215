@@ -1,10 +1,10 @@
 X=input()
 Y=input()
 If x>y:
-z=x-y
+ z=x-y
 elif:
-z=y+x
+ z=y+x
 else:
-z=x
+ z=x
 print(z)
 
