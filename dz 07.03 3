@@ -1,0 +1,16 @@
+x=int(input())
+y=int(input())
+s=x+y
+print(s)
+if x>y:
+ s=x-y
+ print("разность =",s)
+ h=x/y
+ print("частное =", h)
+else:
+ s=y-x
+ print("разность =",s)
+ h=y/x
+ print("частное =", h)
+g=x*y
+print(g)
