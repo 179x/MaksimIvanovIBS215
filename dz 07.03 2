@@ -1,0 +1,4 @@
+m=int(input())
+v=int(input())
+P=m/v
+print(p)
