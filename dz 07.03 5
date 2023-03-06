@@ -1,0 +1,4 @@
+S=int(input())
+J=int(input())
+P=S\J
+print(p)
