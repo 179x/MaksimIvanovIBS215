@@ -1,0 +1,6 @@
+a=int(input())
+r=int(input())
+if (a * a > 3.14 * r * r):
+ print("квадратик больше")
+else:
+ print("кружочек больше")
