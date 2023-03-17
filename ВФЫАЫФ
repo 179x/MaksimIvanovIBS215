@@ -1,0 +1,7 @@
+X=10
+i=0
+for x<100:
+x=(x/100+x)
+d=i+1
+else:
+print(d)
