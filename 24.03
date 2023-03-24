@@ -1,0 +1,10 @@
+x=int(input())
+if x%4=0:
+ print("net")
+elif x%100=0:
+ if x%400=0
+  print("da")
+ else:
+  print("net")
+else:
+ print("da")
