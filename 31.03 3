@@ -1,0 +1,8 @@
+h=int(input())
+k=int(input())
+e=int(input())
+z=(200*h)/8+h
+if z>k+e:
+ print("zachilsya")
+else:
+ print("pahai balbes")
