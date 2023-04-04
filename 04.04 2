@@ -1,0 +1,8 @@
+x=int(input())
+i=0
+g=7
+while x>0:
+ i=x
+ x=x-g
+ print(i,"-",g)
+ 
