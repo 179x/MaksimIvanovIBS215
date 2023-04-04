@@ -1,0 +1,13 @@
+i=0
+while x<20:
+ x=i
+ i=2
+ print(x)
+ 
+ 
+ 
+ i=-1
+ while x>-21:
+ x=i
+ i=i+3
+ print(x)
