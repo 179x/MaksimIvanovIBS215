@@ -1,0 +1,10 @@
+f1=0
+f2=1
+n=10
+i=0
+while i<n-2:
+ x=f1+f2
+ f1=f2
+ f2=x
+ i=i+1
+ print(f2)
