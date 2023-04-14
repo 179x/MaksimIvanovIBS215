@@ -1,0 +1,65 @@
+a=int(input())
+b=2
+while a>(b**0,5):
+ print(b**0,5)
+ b=b+1
+print(a)
+
+a=int(input())
+b=int(input())
+if a<b:
+ while a<b:
+  a=a+1
+  print(a)
+else:
+print("не то")
+
+a=int(input())
+b=int(input())
+if a<b:
+ while a<b:
+  b=b-1
+  print(b)
+else:
+print('ne to')
+
+n=int(input())
+if n>1:
+ k=(n/3+1)//1
+ print(k,k*3)
+ else:
+ print("ne to")
+ 
+ n=int(input())
+ if n>1:
+  k=(n/3-1)//1
+  print(k*3)
+ else:
+ print("ne to")
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ a=int(input())
+ while a>0:
+  a=a-1
+  print(a)
+  
+  n=int(input())
+  b=0
+  c=1
+  while b<n:
+   b=b+1/c
+   c=c+1
+  print(c,b)
+   
+   n=int(input())
+   a=1
+   while a**2<n:
+    a=a+1
+   print(a)
+   
+ 
