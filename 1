@@ -1,4 +1,4 @@
-def scam(x,a,b,c,d)
+def scam(x,a,b,c,d):
 x=int(input()
 if a>999 and a<10000:
  a=x//1000
@@ -9,3 +9,36 @@ if a>999 and a<10000:
  print(a*b*c*d)
  else:
   print("4 znachnoe vvedi")
+ x,a,b,c,d=scam()
+ 
+ def scam(x,a,b,c,d,g):
+x=int(input())
+if x>9 and x<100000
+ a=x//10000
+ b=x//1000%10
+ c=x//100%10
+ d=x%100//10
+ g=x%10
+ print(c,d)
+ else:
+  print("ne 5")
+ x,a,b,c,d,g=scam()
+ 
+ def scam(x,a,b,c,d,g):
+x=int(input())
+a=x//100
+b=x%100//10
+c=x%10
+g=c*100+b*10+a
+if g>x:
+ print(g-x)
+ else:
+ print(x-g)
+ x,a,b,c,d,g=scam()
+  
+ def plan_b(n):
+n=int(input())
+while n>0:
+ print(n%10)
+ n//=10
+ n=plan_b
